@@ -1,0 +1,2 @@
+rootProject.name='mvvmLab'
+include ':app'
